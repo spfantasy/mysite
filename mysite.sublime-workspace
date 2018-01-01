@@ -1,0 +1,792 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HTT",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"cno",
+				"contrib\tmodule"
+			],
+			[
+				"rigst",
+				"registered"
+			],
+			[
+				"profil",
+				"profile_form\tstatement"
+			],
+			[
+				"UserP",
+				"UserProfileInfo"
+			],
+			[
+				"user",
+				"UserProfileInfo\tclass"
+			],
+			[
+				"Us",
+				"UserProfileInfo\tclass"
+			],
+			[
+				"web",
+				"websetting\tweb"
+			],
+			[
+				"sig",
+				"signupForm\tclass"
+			],
+			[
+				"si",
+				"signupForm\tclass"
+			],
+			[
+				"in",
+				"injection\tfunction"
+			],
+			[
+				"Email",
+				"EmailField\tclass"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"dat",
+				"date_dict\tstatement"
+			],
+			[
+				"reg",
+				"registeredModels"
+			],
+			[
+				"context",
+				"context\tparam"
+			],
+			[
+				"Ht",
+				"html\tmodule"
+			],
+			[
+				"vi",
+				"views\tmodule"
+			],
+			[
+				"gam",
+				"game_on"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"for",
+				"for\tAttr"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"dis",
+				"discount"
+			],
+			[
+				"print",
+				"print_total"
+			],
+			[
+				"isb",
+				"_isbn"
+			],
+			[
+				"te",
+				"temporaryRational"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"age",
+				"age18"
+			],
+			[
+				"bu",
+				"buildings\tparam"
+			],
+			[
+				"st",
+				"studentone\tstatement"
+			],
+			[
+				"co",
+				"counter\tstatement"
+			],
+			[
+				"Ques",
+				"QuestionAdmin\tclass"
+			],
+			[
+				"ass",
+				"assertContains"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"rep",
+				"response\tstatement"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"Futrue",
+				"future_question"
+			],
+			[
+				"pub",
+				"pub_date__lte"
+			],
+			[
+				"question",
+				"question_text\tparam"
+			],
+			[
+				"creat",
+				"create_question\tfunction"
+			],
+			[
+				"la",
+				"latest_question_list"
+			],
+			[
+				"assert",
+				"assertQuerysetEqual"
+			],
+			[
+				"listv",
+				"listview\tListView"
+			],
+			[
+				"t",
+				"timedelta\tclass"
+			],
+			[
+				"tzn",
+				"timezone"
+			],
+			[
+				"timzo",
+				"timezone"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"sele",
+				"selected_choice\tstatement"
+			],
+			[
+				"get",
+				"get_object_or_404\tmodule"
+			],
+			[
+				"ques",
+				"question_id"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"pst",
+				"post_detail"
+			],
+			[
+				"Publi",
+				"PublishedManager\tclass"
+			],
+			[
+				"Stat",
+				"STATUS_CHOICE\tstatement"
+			],
+			[
+				"meta_t",
+				"meta_test_path\tstatement"
+			],
+			[
+				"stag",
+				"stage1result\tstatement"
+			],
+			[
+				"meta_tra",
+				"meta_train_y\tstatement"
+			],
+			[
+				"mt",
+				"meta_train_y\tstatement"
+			],
+			[
+				"met",
+				"meta_test\tstatement"
+			],
+			[
+				"meat",
+				"meta_train\tstatement"
+			],
+			[
+				"para",
+				"params\tparam"
+			],
+			[
+				"me",
+				"methodname"
+			],
+			[
+				"as",
+				"as_matrix"
+			],
+			[
+				"valida",
+				"validation_split"
+			],
+			[
+				"val",
+				"validation_split"
+			],
+			[
+				"ig",
+				"ignore_index\tparam"
+			],
+			[
+				"raw",
+				"raw_input\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakgere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PRV",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 335.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shihaoli/myfile/project/mysite",
+		"/Users/shihaoli/myfile/project/mysite/basic_app",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/__pycache__",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templatetags"
+	],
+	"file_history":
+	[
+		"/Users/shihaoli/myfile/project/mysite/mysite/settings.py",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/views.py",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/urls.py",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app/base.html",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app/login.html",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/forms.py",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/models.py",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app/registration.html",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app/index.html",
+		"/Users/shihaoli/myfile/project/mysite/mysite/urls.py",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/admin.py",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/django_hashers.sublime-snippet",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templatetags/my_extras.py",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templatetags/__init__.py",
+		"/Users/shihaoli/myfile/project/mysite/mysite.sublime-project",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/web.sublime-snippet",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app/other.html",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/jquery.sublime-snippet",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/bootstrap.sublime-snippet",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/urls",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app/relative.html",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/HTML (Django).sublime-settings",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/Users/shihaoli/myfile/project/mysite/basic_app/templates/basic_app/relative_url_templates.html",
+		"/Users/shihaoli/myfile/project/mysite/excercise/views.py",
+		"/Users/shihaoli/myfile/project/mysite/excercise/templates/excercise/signup.html",
+		"/Users/shihaoli/myfile/project/mysite/excercise/templates/excercise/index.html",
+		"/Users/shihaoli/myfile/project/mysite/excercise/urls.py",
+		"/Users/shihaoli/myfile/project/mysite/excercise/forms.py",
+		"/Users/shihaoli/myfile/project/mysite/first_app/forms.py",
+		"/Users/shihaoli/myfile/project/mysite/first_app/views.py",
+		"/Users/shihaoli/myfile/project/mysite/first_app/templates/first_app/form_page.html",
+		"/Users/shihaoli/myfile/project/mysite/first_app/urls.py",
+		"/Users/shihaoli/myfile/project/mysite/first_app/templates/first_app/index.html",
+		"/Users/shihaoli/myfile/project/mysite/first_app/models.py",
+		"/Users/shihaoli/myfile/project/mysite/first_app/admin.py",
+		"/Users/shihaoli/myfile/project/mysite/injection.py",
+		"/Users/shihaoli/myfile/project/mysite/excercise/static/excercise/css/mystyle.css",
+		"/Users/shihaoli/myfile/project/mysite/excercise/static/css/index.css",
+		"/Users/shihaoli/myfile/project/mysite/excercise/admin.py",
+		"/Users/shihaoli/myfile/project/mysite/excercise/template/excercise/index.html",
+		"/Users/shihaoli/myfile/project/mysite/excercise/models.py",
+		"/Users/shihaoli/myfile/project/mysite/populate_first_app.py",
+		"/Users/shihaoli/myfile/project/mysite/first_app/static/first_app/css/mystyle.css",
+		"/Users/shihaoli/myfile/project/mysite/first_app/templates/first_app/404.html",
+		"/Users/shihaoli/myfile/project/mysite/templates/index.html",
+		"/Users/shihaoli/myfile/project/mysite/polls/views.py",
+		"/Users/shihaoli/myfile/project/htmlclass/main.css",
+		"/Users/shihaoli/myfile/project/htmlclass/main.html",
+		"/Users/shihaoli/myfile/project/htmlclass/main.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/jQuery/Part2_Events.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/jQuery/Part3_FrontEndProject.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Javascript_Level_Two/Part6_Objects_Exercise_SOLUTIONS.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Javascript_Level_Two/Part1_Functions.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Javascript_Level_Two/Part6_Objects_Exercise.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Document_Object_Model/Part2_Interact.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Document_Object_Model/Part1_Color_Changer.js",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Document_Object_Model/Part1_MainPage.html",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Document_Object_Model/Part4_GameCSS.css",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/Document_Object_Model/Part4_Game_Project.html",
+		"/Users/shihaoli/myfile/project/htmlclass/Part1_MyDocument.html",
+		"/Users/shihaoli/myfile/project/htmlclass/myscript.js",
+		"/Users/shihaoli/myfile/project/htmlclass/ttt.css",
+		"/Users/shihaoli/myfile/project/htmlclass/ttt.js",
+		"/Users/shihaoli/myfile/project/htmlclass/ttt.html",
+		"/Users/shihaoli/myfile/project/htmlclass/Part2_Content.html",
+		"/Users/shihaoli/myfile/project/htmlclass/Part2_Interact.js",
+		"/Users/shihaoli/myfile/project/htmlclass/Part1_MainPage.html",
+		"/Users/shihaoli/myfile/project/htmlclass/Part9_JS_Project.html",
+		"/Users/shihaoli/myfile/project/htmlclass/Part3_Exercise.html",
+		"/Users/shihaoli/myfile/project/htmlclass/Part8_Loops_Exercise.js",
+		"/Users/shihaoli/myfile/project/htmlclass/signin.html",
+		"/Users/shihaoli/myfile/project/htmlclass/project.html",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/Users/shihaoli/Desktop/Akuna.txt",
+		"/Users/shihaoli/Desktop/Akuna.py",
+		"/Users/shihaoli/myfile/project/htmlclass/basic_master.css",
+		"/Users/shihaoli/myfile/project/htmlclass/thanks.html",
+		"/Users/shihaoli/myfile/project/htmlclass/basic.html",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_Two/CSS_Level_Two_Spectrum.html",
+		"/Users/shihaoli/Downloads/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_Two/Part2_Box_Models.html",
+		"/Users/shihaoli/myfile/project/mysite/mysite/mysite.sublime-project",
+		"/Users/shihaoli/myfile/project/htmlclass/CSS_Level_One_Test_Solutions.css",
+		"/Users/shihaoli/myfile/project/htmlclass/CSS_Level_One_Assessment.css",
+		"/Users/shihaoli/myfile/project/htmlclass/CSS_Level_One_Assessment.html",
+		"/Users/shihaoli/myfile/project/htmlclass/Part1_Tables.html",
+		"/Users/shihaoli/myfile/project/DAE/util/DenoisedAutoEncoder.py",
+		"/Users/shihaoli/myfile/project/DAE/DenoisedAutoEncoder.sublime-project",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/shihaoli/myfile/project/DAE/DenoisedAutoEncoder.py",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/shihaoli/myfile/project/DAE/dae_keras.py",
+		"/Users/shihaoli/myfile/project/LeetCode/253_Meeting_Rooms_II/253.py",
+		"/Users/shihaoli/myfile/project/LeetCode/253_Meeting_Rooms_II/253.cpp",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script.sh",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script_RandomForest.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script_xgboost1.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script_xgboost2.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script_stacking.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script_preprocessing.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script_lgbm2.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/script_lgbm1.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/preprocessing.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/modeling.py",
+		"/Users/shihaoli/myfile/project/KaggleBuild/SafeDriver/evaluation.py",
+		"/Users/shihaoli/myfile/project/LeetCode/234_Palindrome_Linked_List/234.cpp",
+		"/Users/shihaoli/myfile/project/test.cpp",
+		"/Users/shihaoli/myfile/project/LeetCode/OOP/Inheritence.cpp",
+		"/Users/shihaoli/myfile/project/LeetCode/229_Majority_Element_II/229.cpp",
+		"/Users/shihaoli/myfile/project/LeetCode/222_Count_Complete_Tree_Nodes/222.cpp",
+		"/Users/shihaoli/myfile/project/LeetCode/OOP/mystring.cpp",
+		"/Users/shihaoli/myfile/project/LeetCode/OOP/mystring_ptr.cpp",
+		"/Users/shihaoli/Library/Application Support/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/Users/shihaoli/myfile/project/LeetCode/221_Maximal_Square/221.cpp",
+		"/Users/shihaoli/myfile/project/LeetCode/OOP/Rational.cpp",
+		"/Users/shihaoli/myfile/project/LeetCode/OOP/Rreference.cpp",
+		"/Users/shihaoli/myfile/project/htmlclass/Part6_Forms_Selections.html",
+		"/Users/shihaoli/myfile/project/LeetCode/220_Contain_Duplicate_III/220.py",
+		"/Users/shihaoli/myfile/project/htmlclass/newpage.html",
+		"/Users/shihaoli/myfile/project/LeetCode/.gitignore",
+		"/Users/shihaoli/myfile/project/LeetCode/218_The_Skyline_Problem/218.py",
+		"/Users/shihaoli/myfile/project/LeetCode/218_The_Skyline_Problem/218.cpp",
+		"/Users/shihaoli/myfile/project/mysite/templates/admin/base_site.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"relative",
+			"brand",
+			"relative",
+			"index",
+			"form",
+			"Form",
+			"form",
+			"get_or_create",
+			"object.",
+			"object",
+			"HttpResponse",
+			"1",
+			"turnBlue",
+			"sameColor",
+			"row-",
+			"<0",
+			"r",
+			"slogan",
+			"checkB",
+			"type",
+			"toggle",
+			"150px",
+			"20px",
+			"10px",
+			"script",
+			".js",
+			"<td></td>",
+			"listOfUnits[i]",
+			"headtwo",
+			"row",
+			"square",
+			"doucument",
+			"img-thumbn",
+			"xs",
+			"md",
+			"Large",
+			"lg",
+			"boxy",
+			"col-lg-4",
+			"border-color",
+			"margin",
+			"margin-right",
+			"margin",
+			"100px",
+			"border:",
+			"table",
+			"first"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 119.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mysite.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/myfile/project/mysite/mysite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
