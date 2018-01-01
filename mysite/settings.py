@@ -25,7 +25,7 @@ SECRET_KEY = '=kx*54l$kl2!tf-thz4c@j2hljp78%gq*ngtofe$#=dqv+nanu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://spfantasy.pythonanywhere.com/']
 
 
 # Application definition

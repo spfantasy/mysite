@@ -12,11 +12,11 @@
 	[
 		{
 			"path": "/Users/shihaoli/myfile/project/mysite"
-		},
+		}
 	],
 	"settings":
 	{
 		"python_interpreter": "/Users/shihaoli/miniconda2/envs/web/bin/python3.6",
-		"translate_tabs_to_spaces": true,
+		"translate_tabs_to_spaces": true
 	}
 }
